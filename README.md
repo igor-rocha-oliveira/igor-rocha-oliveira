@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Eu sou Igor Rocha Oliveira
 
-<!--
-**igor-rocha-oliveira/igor-rocha-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente procurando uma vaga como programador para trabalhar
+- 🌱 Estudando JavaScript
+- 👯 Procuro trabalhar em Backend principalmente JAVA
+- 📫 Contate-me no email: 16.igor.1993@gmail.com
+- 😄 Pronouns: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/igor-rocha-oliveira">
+  <img height = 140em src="https://github-readme-stats.vercel.app/api?username=igor-rocha-oliveira&show_icons=true&theme=dracula&include_all_comits=true&count_priavate=true"/>
+  <img height = 140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-rocha-oliveira&layout=compact&langs_count=16&theme=dark"/>
+</div>
