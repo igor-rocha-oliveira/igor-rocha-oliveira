@@ -1,11 +1,11 @@
 ## Olá! Eu sou Igor Rocha Oliveira
 
 
-- 🔭 Atualmente procurando uma vaga como programador
-- 🌱 Estudando Java, JavaScript, HTML, CSS, Python e Banco de Dados
-- 👯 Meu objetivo e trabalhar em Backend programando em JAVA
-- 📫 Contate-me no email: 16.igor.1993@gmail.com e igorlegionario@hotmail.com
-- 😄 Pronouns: ele/dele
+- 💼 Atualmente procurando uma vaga como programador
+- 👨🏽‍💻 Estudando Java, Kotlin, JavaScript, React, HTML, CSS, Python e SQL
+- 👯 Meu objetivo e trabalhar como Backend Developer
+- 📫 Contate-me no email: 16.igor.1993@gmail.com
+- ✈️ Apto a mudar de cidade estado e país.
 
 <div>
   <a href="https://github.com/igor-rocha-oliveira">
